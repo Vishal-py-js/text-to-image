@@ -1,6 +1,6 @@
 Clone the repository:
 
-git clone https://github.com/Vishal-py-js/reminder.git
+git clone https://github.com/Vishal-py-js/text-to-image.git
 
 cd generator
 
